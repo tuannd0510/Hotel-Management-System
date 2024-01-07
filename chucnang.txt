@@ -1,0 +1,36 @@
+- Admin
+	quan ly Room: 
+		them sua xoa thong tin phong
+		lich su book phong
+		status: 
+			- book ??
+			- noi that / do vat
+			- clean ??
+	quan ly tai khoan: 
+		them sua xoa tai khoan
+		approve request create account
+	quan ly hoa don
+		- ngay check in/out
+		- gia phong
+		- in hoa don
+		- xac nhan thanh toan: 
+			tien mat
+			the tin dung
+	
+- Guess
+	log in/out : https://mirage-hotel.netlify.app/signup_signin
+	register : https://mirage-hotel.netlify.app/signup_signin
+	dat phong : https://mirage-hotel.netlify.app/bookingform
+	check in/out : 
+	payment 
+	thay doi thoi gian check out : 
+	xem hoa don : 
+	feedback : https://mirage-hotel.netlify.app/userportal   Customer Reviews
+
+- giao dien hien thi
+	- home : https://mirage-hotel.netlify.app/userportal
+	- Room list : https://mirage-hotel.netlify.app/rooms
+	- login / log out
+	- register
+	- payment
+	
