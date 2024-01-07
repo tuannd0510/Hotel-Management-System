@@ -1,11 +1,8 @@
 - Admin
 	quan ly Room: 
-		them sua xoa thong tin phong
-		lich su book phong
-		status: 
-			- book ??
-			- noi that / do vat
-			- clean ??
+		update, 
+		approve request dat phong >> -- phong , thay doi state
+		lich su
 	quan ly tai khoan: 
 		them sua xoa tai khoan
 		approve request create account
